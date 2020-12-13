@@ -13,6 +13,7 @@
 
 body{
     background-color: var(--Dark-cyan);
+    font-family:Kumbh Sans;
    }
 
 
@@ -50,3 +51,39 @@ body{
     transform: translate(-50%, -50%)
     
 }
+
+
+.pp{
+    border: 1px solid var(--dark-gray-blue);
+    border-radius: 3rem;
+    border-width: 2px;
+    position:relative;
+    margin:0px;
+    display:inline;
+    margin-top: 50px;
+}
+
+.info{
+    line-height:2px;
+    margin-top: 23px;
+    margin-bottom:50px;
+
+}
+
+
+.un__li{
+    list-style:none;
+    text-align:center; 
+    display:block;    
+    padding-inline-start: 1rem;
+    padding-inline-end: 1rem;
+}
+
+
+.in--li{
+display:inline-block;
+padding: 0rem 1rem;
+margin:auto;
+font-weight: bold;
+}
+
