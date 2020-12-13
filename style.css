@@ -22,11 +22,15 @@ body{
     top:350px;
     right:-300px;
 } 
-/* .img2{
-    position:absolute;
-    bottom:250px;
+
+.img2{
+    position:fixed;
+    bottom:350px;
     left:-300px;
-} */
+}
+
+
+
 .mainblock{
     border: 1px solid black;
     width: 280px;
