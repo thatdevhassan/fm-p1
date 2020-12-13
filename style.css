@@ -12,9 +12,8 @@
 
 
 body{
-    /* background-image: url(/images/bg-pattern-top.svg); */
-    /* background-image:url(/images/bg-pattern-top.svg); */
-}
+    background-color: var(--Dark-cyan);
+   }
 
 
 .img1{
@@ -43,7 +42,7 @@ body{
     margin-right:auto; */
     /* for vertical aligning */
 
-    background :var(--Dark-cyan);
+    background :white;
     position: absolute;
     top: 50%;
     left: 50%;
