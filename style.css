@@ -10,13 +10,23 @@
 }
 
 
-.body{
-    background-image: url('images/bg-pattern-card.svg');
 
+body{
+    /* background-image: url(/images/bg-pattern-top.svg); */
+    /* background-image:url(/images/bg-pattern-top.svg); */
 }
 
 
-
+.img1{
+    position:absolute;
+    top:350px;
+    right:-300px;
+} 
+/* .img2{
+    position:absolute;
+    bottom:250px;
+    left:-300px;
+} */
 .mainblock{
     border: 1px solid black;
     width: 280px;
